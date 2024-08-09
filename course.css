@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://images.hindustantimes.com/rf/image_size_640x362/HT/p1/2015/03/18/Incoming/Pictures/1327679_Wallpaper2.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    height: 35vh;
+    padding: 30px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-family: "Serif";
+    font-weight: bold;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.qualification-background {
+    background-image: url("https://img.freepik.com/free-photo/back-school-accessories_169016-1548.jpg?size=626&ext=jpg&ga=GA1.1.1089570808.1699074849&semt=ais");
+    height: 140vh;
+    background-size: cover;
+    padding: 20px;
+    width: 145vw;
+}
+
+.qualification-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 24px;
+}
+
+.qualification-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 25px;
+    height: 160px;
+    width: 450px;
+}
+
+.school-card-heading {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.school-card-para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 5px;
+    width: 300px;
+}
+
+.school-card-image {
+    height: 120px;
+    width: 120px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://srichaitanyaapp.s3.ap-south-1.amazonaws.com/prod/assets/uploads/gallery-inter-school-1558672053-13377.jpg");
+    height: 120vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.detailed-view-card-heading {
+    color: Black;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.detailed-view-card-para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.detailed-view-card-text-container {
+    padding: 15px;
+}
